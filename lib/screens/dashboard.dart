@@ -43,7 +43,7 @@ class DashBoard extends StatelessWidget {
           ),
           GestureDetector(
             onTap: () {
-              // Navigator.pushNamed(context, 'search');
+              Navigator.pushNamed(context, 'search');
             },
             child: new Container(
               color: Colors.red[700],

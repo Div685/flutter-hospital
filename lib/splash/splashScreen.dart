@@ -84,7 +84,7 @@ class _SplashScreenState extends State<SplashScreen>
           new Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              // new Image.asset('assets/logo1.png'),
+              new Image.asset('assets/logo1.png'),
               Text(
                 "Emergency Rescue",
                 style: TextStyle(

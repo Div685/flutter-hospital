@@ -1,4 +1,5 @@
 import 'package:emergency_hospital/screens/dashboard.dart';
+import 'package:emergency_hospital/screens/search.dart';
 import 'package:emergency_hospital/splash/splashScreen.dart';
 import 'package:flutter/material.dart';
 // import 'package:provider/provider.dart';
@@ -25,7 +26,7 @@ class MyApp extends StatelessWidget {
       routes: {
         'splash': (context) => SplashScreen(),
         'dashboard': (context) => DashBoard(),
-        //'search': (context) => Search(),
+        'search': (context) => Search(),
         // 'place': (context) => SearchPlaces(),
         // 'pharmacy': (context) => Pharmacy(),
       },
