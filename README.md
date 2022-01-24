@@ -1,16 +1,40 @@
 # emergency_hospital
 
-A new Flutter project.
+> Emergency Hospital is an Android application built using Flutter. It uses Google Map and places API to fetch data for near by hospitals with location. 
+
+## Built With
+
+- Flutter
+- Google Map API
+- Google Place API
+- Android
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a local copy up and running follow these simple steps.
 
-A few resources to get you started if this is your first Flutter project:
+- [ ] Open your terminal
+- [ ]  Navigate to the directory where you will like to install the repo by running `cd FOLDER-NAME` 
+- [ ] Clone this repository
+ > `git clone https://github.com/Div685/flutter-hospital.git`
+- [ ] Install packages
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Authors
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👤 **Divyesh Patel**
+
+- GitHub: [@Div685](https://github.com/Div685)
+- Twitter: [@div_685](https://twitter.com/div_685)
+- LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-daxa-patel/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Div685/flutter-hospital/issues).
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
